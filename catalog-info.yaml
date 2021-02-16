@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "4-obp"
+  description: "4-obp"
+  annotations:
+    github.com/project-slug: Paridhi-Mohindra/4-obp
+    backstage.io/techdocs-ref: url:https://github.com/Paridhi-Mohindra/4-obp
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "4-obp"
